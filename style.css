@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Pacifico|Racing+Sans+One');
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One|Pacifico|Racing+Sans+One');
 
 h1{
 font-size: 60px;
@@ -124,7 +124,7 @@ p {
 
 h5 {
     text-align: center;
-    font-family: 'Racing Sans One', cursive;
+    font-family: 'Leckerli One', cursive;
     color: rgb(218, 52, 102);
     font-size: 2em;
 }
