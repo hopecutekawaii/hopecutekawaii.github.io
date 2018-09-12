@@ -149,3 +149,16 @@ h5 {
 .navbar a:visted{
     color: inherit;
 }
+
+@media screen and (max-width: 500px) {
+    .brand-logo {
+        margin-left: 1em;
+    }  
+    h1 {
+        margin-bottom: 5px;
+    }
+
+    .scroll {
+        margin: 0 1em;
+    }
+}
